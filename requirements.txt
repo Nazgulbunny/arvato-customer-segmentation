@@ -1,0 +1,8 @@
+# Package list only: exact original dependency versions were not captured.
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+notebook
+nbconvert
